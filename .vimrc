@@ -3,6 +3,7 @@ set hidden
 set hlsearch
 set ts=3
 set ic
+set nocompatible
 
 syntax on
 
